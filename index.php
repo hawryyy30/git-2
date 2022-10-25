@@ -9,5 +9,8 @@
 <body>
     <h1>Remote lagi kita cuy</h1>
     <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ratione officiis tempora perspiciatis autem est eligendi neque, explicabo fugit obcaecati perferendis voluptatum ducimus at id. Quas voluptatum repellat aperiam placeat vel!</p>
+    <ul>
+        <li>Hellows</li>
+    </ul>
 </body>
 </html>
